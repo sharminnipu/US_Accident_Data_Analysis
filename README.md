@@ -3,10 +3,10 @@ TODO - talk about EDA
 
 TODO - talk about the datatset(source,what it contains,how it will be usefull)
 
-Kaggle
-information about accidents
-can use useful to prevent accidents
-mention that this does not containt data about New York.
+1.Kaggle
+2.information about accidents
+3.can use useful to prevent accidents
+4.mention that this does not containt data about New York.
 
 # Dataset Downloaded from this link
 https://www.kaggle.com/sobhanmoosavi/us-accidents
