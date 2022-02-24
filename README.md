@@ -32,7 +32,7 @@ Start_Lat,Start_Lng
 7.Which months have the most accidents? ANSWER
 8.What is the trend of accidents year over year(decreasing/increasing?)
 
-#Summary and Conclusion
+# Summary and Conclusion
 Insights:
 
 1.No data for New York
